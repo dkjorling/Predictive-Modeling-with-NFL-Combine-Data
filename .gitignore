@@ -13,3 +13,4 @@
 *.lof
 *checkpoint.ipynb
 *.png
+*.DS_Store
