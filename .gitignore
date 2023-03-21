@@ -1,0 +1,15 @@
+*.aux
+*.toc
+*.tex
+*.log
+*.out
+*.pyc
+*.env
+*.gz
+*.csv
+*.bib
+*.bbl
+*.blg
+*.lof
+*checkpoint.ipynb
+*.png
